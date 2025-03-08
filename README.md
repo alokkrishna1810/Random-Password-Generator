@@ -1,6 +1,8 @@
 # Random Password Generator
 
-`https://random-password-generator-jade-three.vercel.app/`
+```sh
+https://random-password-generator-jade-three.vercel.app/
+```
 
 ## Features
 
