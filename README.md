@@ -1,8 +1,50 @@
-# React + Vite
+# Random Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`https://random-password-generator-jade-three.vercel.app/`
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Generate random passwords instantly
+- Customize password length
+- Option to include numbers and special characters
+- Copy the generated password to the clipboard
+- Responsive and user-friendly interface
+
+## Technologies Used
+
+- **React** - For building the UI components
+- **Vite** - Fast development build tool
+- **Tailwind CSS** - For styling and responsiveness
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/alokkrishna1810/random-password-generator.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd random-password-generator
+   ```
+3. Install dependencies:
+   ```sh
+   npm install  # or yarn install
+   ```
+
+### Running the Project
+
+Start the development server:
+```sh
+npm run dev  # or yarn dev
+```
+
+The application will be available at `http://localhost:5173/`.
